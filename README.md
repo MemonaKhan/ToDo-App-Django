@@ -16,3 +16,4 @@ setup the project
 12. go to admin.py and register the model
 13. python manage.py makemigrations                      # run make migration and then step 3
 14. do step 5 and see models are there or not
+
